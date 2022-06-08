@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    
+}
+
+.line{
+    width:70px;
+    height: 6px;
+    background-color: black;
+    margin: 8px auto;
+}
+
+h1{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#games{
+    background-color: lightcoral;
+}
